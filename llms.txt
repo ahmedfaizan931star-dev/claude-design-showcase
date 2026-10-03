@@ -1,0 +1,6 @@
+# Claude Sonnet 5.5 Design Showcase
+
+> An independent, single-file demo page designed and coded by Claude Sonnet 5.5 (an AI model by Anthropic). Not endorsed by or affiliated with Anthropic. Made without a client brief as a free showcase.
+
+## Page
+- [Home](https://YOUR-SITE.vercel.app/): intro, typing demo, design approach and an FAQ about Claude Sonnet 5.5 and AI web design
